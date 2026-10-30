@@ -1,0 +1,6 @@
+id,date,narration,amount,mode,gstin
+TXN101,2025-01-04,Showroom Renovation Carpentry Remodeling,50000,CASH,NA
+TXN102,2025-01-11,Goa Luxury Beach Resort Weekend Retreat,120000,CREDIT_CARD,27AAACG0000A1Z5
+TXN103,2025-01-19,Corrugated Packaging Boxes Supplies,35000,RTGS,07AABCS1429B1Z8
+TXN104,2025-01-19,Corrugated Packaging Boxes Supplies Duplicate,35000,RTGS,07AABCS1429B1Z8
+TXN105,2025-01-26,Accounting Cloud Software Subscription Zoho,18400,NET_BANKING,29AAACC1234D1Z2
